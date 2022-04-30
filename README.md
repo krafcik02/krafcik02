@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krafcik02, I am 21 years old Front-end Developer.
 - 👀 I’m interested in web development, front-end but also back-end.
 - 🌱 I’m currently learning Javascript, React JS
-- 💞️ I’m looking to collaborate on exciting projects in companies. 
+- 💞️ I’m looking to collaborate on exciting projects in startups. 
 - 📫 How to reach me kristian.krafcik02@gmail.com
 
 <!---
