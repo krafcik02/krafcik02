@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, front-end but also back-end.
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on exciting projects in startups. 
-- 📫 How to reach me kristian.krafcik02@gmail.com
+- 📫 How to reach me krafcik02@gmail.com
 
 <!---
 krafcik02/krafcik02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
